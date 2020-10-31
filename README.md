@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **SowTag/SowTag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 👑  Welcome to my GitHub page
+
+Things I can develop (at least for other people):
+
+1. Discord Bots
+2. Python Loggers/viruses (for educational uses/research)
+3. Node.js backends
+
+Check out my social media *(Just the ones I want people to see, lol)*:
+
+[Instagram](https://www.instagram.com/pixelaxx/)
