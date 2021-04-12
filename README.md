@@ -13,14 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👑  Welcome to my GitHub page
+### 👑  Welcome
 
-Things I can develop (at least for other people):
-
-1. Discord Bots
-2. Python Loggers/viruses (for educational uses/research)
-3. Node.js backends
-
-Check out my social media *(Just the ones I want people to see, lol)*:
-
-[Instagram](https://www.instagram.com/pixelaxx/)
