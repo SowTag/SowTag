@@ -31,8 +31,6 @@ lecture about performance or [Grant Sanderson](https://www.youtube.com/@3blue1br
 
 ### Tech Stack
 
-**Languages**
-
 * **Core stack**: Java, Spring Boot, Golang
 * **Databases**: MySQL/Postgres (relational), MongoDB/Redis (NoSQL)
 * **Infra**: Docker, CI/CD (GitHub Actions), Linux/Unix environments
